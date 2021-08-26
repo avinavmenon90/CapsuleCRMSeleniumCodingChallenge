@@ -1,0 +1,45 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 13,
+        "name": "Search for a product",
+        "description": "",
+        "id": "automationtest-page-testing;search-for-a-product",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "This is a Search for a product test",
+            "match": {
+              "location": "TaggingStepDefinition.this_is_a_Search_for_a_product_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 12,
+            "name": "@RegressionTest"
+          }
+        ]
+      }
+    ],
+    "name": "AutomationTest Page Testing",
+    "description": "",
+    "id": "automationtest-page-testing",
+    "keyword": "Feature",
+    "uri": "C:/Users/Avinav/eclipse-workspace/CucumberBDDFramework/src/main/java/Feature/tagging.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@FunctionalTest"
+      }
+    ]
+  }
+]
